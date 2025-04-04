@@ -1,6 +1,6 @@
 #  Hey, I'm Ray.
 
-I'm Ray (15 y/o), and I'm an intermediate **Luau** scripter
+I'm Ray , and I'm an intermediate **Luau** scripter
 
 ### 🛠️ What I Can Do
 - Code in **LuaU** (Roblox Lua)
